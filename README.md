@@ -9,3 +9,6 @@ ce of a general logical model and comparison between many personalized model ver
 ### Tutorial
 A tutorial showing how each step of the creation and the use of personnalied models has been upload in this repository also.
 
+``` 
+pip install profile_maboss
+``` 
