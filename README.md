@@ -12,4 +12,6 @@ A tutorial showing how each step of the creation and the use of personnalied mod
 ### Installation
 ``` 
 pip install profile_maboss
+python -m maboss_setup 
 ``` 
+The first command will install the library, the second one will install maboss executables.
